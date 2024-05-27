@@ -1,9 +1,9 @@
 🐏 wip once again !
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://static.wikia.nocookie.net/guilty-gear/images/f/f5/Testament_chibi.png/revision/latest/scale-to-width-down/1000?cb=20220811190748">
-  <source media="(prefers-color-scheme: light)" srcset="https://static.wikia.nocookie.net/guilty-gear/images/f/f5/Testament_chibi.png/revision/latest/scale-to-width-down/1000?cb=20220811190748">
-  <img alt="chibi image of testament guilty gear" src="https://static.wikia.nocookie.net/guilty-gear/images/f/f5/Testament_chibi.png/revision/latest/scale-to-width-down/1000?cb=20220811190748">
+  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/74499a7e2403132fb4a45da860174002/6a92b7834b412693-3e/s540x810/d1a30dce133ab89256b3257c191af6e43ccee69a.gifv">
+  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/74499a7e2403132fb4a45da860174002/6a92b7834b412693-3e/s540x810/d1a30dce133ab89256b3257c191af6e43ccee69a.gifv">
+  <img alt="testament guilty gear sip" src="https://64.media.tumblr.com/74499a7e2403132fb4a45da860174002/6a92b7834b412693-3e/s540x810/d1a30dce133ab89256b3257c191af6e43ccee69a.gifv">
 </picture>
 <p align="center">
   💀 PROTO/SABLE/GREY | 21 | THEY/THEM | NONBINARY LESBIAN 💀
