@@ -1,17 +1,16 @@
-🐏 wip once again !
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/74499a7e2403132fb4a45da860174002/6a92b7834b412693-3e/s540x810/d1a30dce133ab89256b3257c191af6e43ccee69a.gifv">
-  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/74499a7e2403132fb4a45da860174002/6a92b7834b412693-3e/s540x810/d1a30dce133ab89256b3257c191af6e43ccee69a.gifv">
-  <img alt="testament guilty gear sip" src="https://64.media.tumblr.com/74499a7e2403132fb4a45da860174002/6a92b7834b412693-3e/s540x810/d1a30dce133ab89256b3257c191af6e43ccee69a.gifv">
+  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/431dfee3128a991cbe2b1a5af53d7daa/tumblr_net1ibanuH1rn9495o1_400.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/431dfee3128a991cbe2b1a5af53d7daa/tumblr_net1ibanuH1rn9495o1_400.gif">
+  <img alt="testament guilty gear sip" src="https://64.media.tumblr.com/431dfee3128a991cbe2b1a5af53d7daa/tumblr_net1ibanuH1rn9495o1_400.gif">
 </picture>
 <p align="center">
-  💀 PROTO/SABLE/GREY | 21 | THEY/THEM | NONBINARY LESBIAN 💀
+  🍫 PROTO/SABLE/GREY | 21 | THEY/THEM | NONBINARY LESBIAN 🍫
 <p align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/38842a7aaa6c062ed50e59b78e84dd3a/c15dd26efcc8af51-61/s400x600/c36845301ac55fe16a66802cf2139e4cfe558a51.gifv">
- <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/38842a7aaa6c062ed50e59b78e84dd3a/c15dd26efcc8af51-61/s400x600/c36845301ac55fe16a66802cf2139e4cfe558a51.gifv">
- <img alt="skull divider" src="https://64.media.tumblr.com/38842a7aaa6c062ed50e59b78e84dd3a/c15dd26efcc8af51-61/s400x600/c36845301ac55fe16a66802cf2139e4cfe558a51.gifv">
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/841c401afd671c5d2e81834add38d44d/e00471efbafcecea-03/s1280x1920/a03fa18a19264c9f5084780c8a169882042a4c94.gifv">
+ <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/841c401afd671c5d2e81834add38d44d/e00471efbafcecea-03/s1280x1920/a03fa18a19264c9f5084780c8a169882042a4c94.gifv">
+ <img alt="skull divider" src="https://64.media.tumblr.com/841c401afd671c5d2e81834add38d44d/e00471efbafcecea-03/s1280x1920/a03fa18a19264c9f5084780c8a169882042a4c94.gifv">
 </picture>
 <p align="center">
   uhhhhh ponytown information (as this is all i have this for): 
@@ -25,9 +24,9 @@
 - i usually kiss instead of crown, it doesn't mean i ship anything. if you whisper me crowns i probably wont reply but just know i appreciate it !
 <p align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/38842a7aaa6c062ed50e59b78e84dd3a/c15dd26efcc8af51-61/s400x600/c36845301ac55fe16a66802cf2139e4cfe558a51.gifv">
- <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/38842a7aaa6c062ed50e59b78e84dd3a/c15dd26efcc8af51-61/s400x600/c36845301ac55fe16a66802cf2139e4cfe558a51.gifv">
- <img alt="skull divider" src="https://64.media.tumblr.com/38842a7aaa6c062ed50e59b78e84dd3a/c15dd26efcc8af51-61/s400x600/c36845301ac55fe16a66802cf2139e4cfe558a51.gifv">
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/841c401afd671c5d2e81834add38d44d/e00471efbafcecea-03/s1280x1920/a03fa18a19264c9f5084780c8a169882042a4c94.gifv">
+ <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/841c401afd671c5d2e81834add38d44d/e00471efbafcecea-03/s1280x1920/a03fa18a19264c9f5084780c8a169882042a4c94.gifv">
+ <img alt="skull divider" src="https://64.media.tumblr.com/841c401afd671c5d2e81834add38d44d/e00471efbafcecea-03/s1280x1920/a03fa18a19264c9f5084780c8a169882042a4c94.gifv">
 </picture>
 <p align="center">
 
